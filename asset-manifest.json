@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mariann-website/static/css/main.39535efd.chunk.css",
-    "main.js": "/Mariann-website/static/js/main.263518a6.chunk.js",
-    "main.js.map": "/Mariann-website/static/js/main.263518a6.chunk.js.map",
+    "main.css": "/Mariann-website/static/css/main.780c3518.chunk.css",
+    "main.js": "/Mariann-website/static/js/main.f0b8c1a3.chunk.js",
+    "main.js.map": "/Mariann-website/static/js/main.f0b8c1a3.chunk.js.map",
     "runtime~main.js": "/Mariann-website/static/js/runtime~main.b24bb8b1.js",
     "runtime~main.js.map": "/Mariann-website/static/js/runtime~main.b24bb8b1.js.map",
-    "static/js/2.8c1535c2.chunk.js": "/Mariann-website/static/js/2.8c1535c2.chunk.js",
-    "static/js/2.8c1535c2.chunk.js.map": "/Mariann-website/static/js/2.8c1535c2.chunk.js.map",
+    "static/js/2.d198d390.chunk.js": "/Mariann-website/static/js/2.d198d390.chunk.js",
+    "static/js/2.d198d390.chunk.js.map": "/Mariann-website/static/js/2.d198d390.chunk.js.map",
     "index.html": "/Mariann-website/index.html",
-    "precache-manifest.fb791b45c5f758465f02f5d3d3e96804.js": "/Mariann-website/precache-manifest.fb791b45c5f758465f02f5d3d3e96804.js",
+    "precache-manifest.8c88c6e4fc448ed27b8c6d07fcd95de1.js": "/Mariann-website/precache-manifest.8c88c6e4fc448ed27b8c6d07fcd95de1.js",
     "service-worker.js": "/Mariann-website/service-worker.js",
-    "static/css/main.39535efd.chunk.css.map": "/Mariann-website/static/css/main.39535efd.chunk.css.map",
-    "static/media/index.css": "/Mariann-website/static/media/hero.b70c8136.jpg"
+    "static/css/main.780c3518.chunk.css.map": "/Mariann-website/static/css/main.780c3518.chunk.css.map",
+    "static/media/index.css": "/Mariann-website/static/media/project.3502f1fa.jpg"
   }
 }
