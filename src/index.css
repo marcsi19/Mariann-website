@@ -91,6 +91,7 @@ body {
 
 .intro {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .intro__title {
@@ -165,4 +166,28 @@ body {
   margin-top: 3em;
   height: 4em;
   width: 4em;
+}
+
+/* ------------------------- */
+/* Media Queries*/
+/* ------------------------- */
+
+/* Small phones: from 0 to 480px */
+@media only screen and (max-width: 750px) {
+  .intro__title {
+    /* flex-wrap: initial; */
+    flex: 1 0 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2em;
+  }
+
+  .intro__content {
+    /* flex: 0 0; */
+    align-content: center;
+    align-self: center;
+    margin-left: 1em;
+    padding: 1em;
+    /* margin: -3em; */
+  }
 }
