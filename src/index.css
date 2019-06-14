@@ -178,11 +178,13 @@ body {
     flex: 1 0 100%;
     align-items: center;
     justify-content: center;
-    padding-top: 2em;
+    padding: 0;
+    padding-top: 1.5em;
   }
 
   .intro__content {
     padding-top: 0.6em;
+    padding: 0;
   }
 }
 
