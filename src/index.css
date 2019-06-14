@@ -182,13 +182,13 @@ body {
   }
 
   .intro__content {
-    padding-top: 1em;
+    padding-top: 0.6em;
   }
 }
 
 /* from 0 to 500px */
 @media only screen and (max-width: 500px) {
   .contact img {
-    margin: 0.5em;
+    margin: 3.5em 0.5em 0.5em 0.5em;
   }
 }
