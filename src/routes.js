@@ -8,7 +8,6 @@ const Routes = () => {
   return (
     <div>
       <Switch>
-        {/* Routes placed here are only available after logging in */}
         <Route path="/projects" component={Projects} />
         <Route path="/contact" component={Contact} />
         <Route exact path="/" component={Intro} />
