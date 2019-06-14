@@ -182,7 +182,6 @@ body {
   }
 
   .intro__content {
-    margin-left: 1em;
     padding-top: 1em;
   }
 }
@@ -190,6 +189,6 @@ body {
 /* from 0 to 500px */
 @media only screen and (max-width: 500px) {
   .contact img {
-    margin-left: 1em;
+    margin: 0.5em;
   }
 }
