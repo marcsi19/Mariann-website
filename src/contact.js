@@ -7,7 +7,7 @@ const Contact = () => {
     <div className="contact-main">
       <div className="contact">
         <a href="https://github.com/marcsi19" target="blank">
-          <img src={require("./img/github.png")} alt="github" />
+          <img src={require("./img/github.jpg")} alt="github" />
         </a>
         <a href="https://www.linkedin.com/in/mariannmateka/" target="blank">
           <img src={require("./img/linkedin.png")} alt="linkedin" />
