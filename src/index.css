@@ -172,10 +172,9 @@ body {
 /* Media Queries*/
 /* ------------------------- */
 
-/* Small phones: from 0 to 480px */
-@media only screen and (max-width: 750px) {
+/* from 0 to 800px */
+@media only screen and (max-width: 800px) {
   .intro__title {
-    /* flex-wrap: initial; */
     flex: 1 0 100%;
     align-items: center;
     justify-content: center;
@@ -183,11 +182,14 @@ body {
   }
 
   .intro__content {
-    /* flex: 0 0; */
-    align-content: center;
-    align-self: center;
     margin-left: 1em;
-    padding: 1em;
-    /* margin: -3em; */
+    padding-top: 1em;
+  }
+}
+
+/* from 0 to 500px */
+@media only screen and (max-width: 500px) {
+  .contact img {
+    margin-left: 1em;
   }
 }
