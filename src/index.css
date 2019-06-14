@@ -28,6 +28,50 @@ body {
 }
 
 /* ------------------------- */
+/* Main Nav*/
+/* ------------------------- */
+.main-nav {
+  display: flex;
+  /* white-space: nowrap; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  align-content: center;
+  margin-top: 10px;
+  height: 4em;
+  font-weight: bold;
+}
+
+.main-nav a:link,
+.main-nav a:visited {
+  padding: 8px 0;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 90%;
+  border-bottom: 2px solid transparent;
+  -webkit-transition: border-bottom 0.2s;
+  transition: border-bottom 0.2s;
+}
+
+.main-nav a:hover,
+.main-nav a:active {
+  border-bottom: 2px solid #e67e22;
+}
+
+.navlink {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  size: 36px;
+  text-decoration: none;
+  align-self: center;
+  margin-right: 20px;
+}
+
+/* ------------------------- */
 /* Intro Page*/
 /* ------------------------- */
 .main-page {
@@ -70,45 +114,43 @@ body {
 }
 
 /* ------------------------- */
-/* Main Nav*/
+/* Project*/
 /* ------------------------- */
-.main-nav {
+
+.project {
+  background-image: -webkit-linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(./img/project.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./img/project.jpg);
+  background-size: cover;
+  color: #fff;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  padding: 4em;
   display: flex;
-  /* white-space: nowrap; */
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  justify-content: space-evenly;
-  align-items: flex-start;
-  align-content: center;
-  margin-top: 10px;
-  height: 4em;
-  font-weight: bold;
+  justify-content: center;
+  /* -webkit-transition: border-bottom 0.5s;
+  transition: border-bottom 0.5s; */
 }
 
-.main-nav a:link,
-.main-nav a:visited {
-  padding: 8px 0;
-  color: white;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 90%;
-  border-bottom: 2px solid transparent;
-  -webkit-transition: border-bottom 0.2s;
-  transition: border-bottom 0.2s;
-}
-
-.main-nav a:hover,
-.main-nav a:active {
-  border-bottom: 2px solid #e67e22;
-}
-
-.navlink {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  size: 36px;
-  text-decoration: none;
-  align-self: center;
-  margin-right: 20px;
+.contact {
+  background-image: -webkit-linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(./img/contact.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./img/contact.jpg);
+  background-size: cover;
+  color: #fff;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  padding: 4em;
+  display: flex;
+  justify-content: center;
 }

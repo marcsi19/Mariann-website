@@ -9,7 +9,7 @@ const Intro = () => (
       </h3>
       <div className="intro__content">
         Hi! My name is Mariann. <br />I am a software developer.
-        <br />I am a website creator.
+        <br />I create websites.
         <br /> Discover my projects!
       </div>
     </div>
