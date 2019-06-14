@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Intro = () => (
   <div className="main-page">
@@ -9,8 +10,10 @@ const Intro = () => (
       </h3>
       <div className="intro__content">
         Hi! My name is Mariann. <br />I am a software developer.
-        <br />I create websites.
-        <br /> Discover my projects!
+        <br />
+        <Link to="/projects" className="intro__link">
+          Have a look at my work!
+        </Link>
       </div>
     </div>
   </div>

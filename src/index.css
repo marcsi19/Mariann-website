@@ -111,6 +111,20 @@ body {
   /* margin: -3em; */
 }
 
+.intro__link:link,
+.intro__link:visited {
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  -webkit-transition: border-bottom 0.2s;
+  transition: border-bottom 0.2s;
+}
+
+.intro__link:active,
+.intro__link:hover {
+  border-bottom: 2px solid #e67e22;
+}
+
 /* ------------------------- */
 /* Project*/
 /* ------------------------- */
@@ -131,8 +145,35 @@ body {
   padding: 4em;
   display: flex;
   justify-content: center;
-  /* -webkit-transition: border-bottom 0.5s;
-  transition: border-bottom 0.5s; */
+}
+
+.carousel-container {
+  padding-top: 3em;
+  width: 50vw;
+}
+
+.carousel-container img {
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-container a {
+  text-decoration: none;
+  align-items: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.carousel-container a:link,
+.carousel-container a:visited {
+  color: white;
+  text-decoration: none;
+  font-size: 130%;
+}
+
+.carousel-container a:hover,
+.carousel-container a:active {
+  color: #e67e22;
 }
 
 /* ------------------------- */
