@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Mariann-website/static/css/main.76d53407.chunk.css",
-    "main.js": "/Mariann-website/static/js/main.b5f81e3c.chunk.js",
-    "main.js.map": "/Mariann-website/static/js/main.b5f81e3c.chunk.js.map",
+    "main.js": "/Mariann-website/static/js/main.73f3c269.chunk.js",
+    "main.js.map": "/Mariann-website/static/js/main.73f3c269.chunk.js.map",
     "runtime~main.js": "/Mariann-website/static/js/runtime~main.b24bb8b1.js",
     "runtime~main.js.map": "/Mariann-website/static/js/runtime~main.b24bb8b1.js.map",
     "static/js/2.8c1535c2.chunk.js": "/Mariann-website/static/js/2.8c1535c2.chunk.js",
     "static/js/2.8c1535c2.chunk.js.map": "/Mariann-website/static/js/2.8c1535c2.chunk.js.map",
     "index.html": "/Mariann-website/index.html",
-    "precache-manifest.60e85b42749b7f83d79fc9a424e98518.js": "/Mariann-website/precache-manifest.60e85b42749b7f83d79fc9a424e98518.js",
+    "precache-manifest.0056c4aa8632e6a9dc8cd8415b667066.js": "/Mariann-website/precache-manifest.0056c4aa8632e6a9dc8cd8415b667066.js",
     "service-worker.js": "/Mariann-website/service-worker.js",
     "static/css/main.76d53407.chunk.css.map": "/Mariann-website/static/css/main.76d53407.chunk.css.map",
     "static/media/index.css": "/Mariann-website/static/media/project.3502f1fa.jpg",
-    "static/media/github.png": "/Mariann-website/static/media/github.624b8108.png",
+    "static/media/github.jpg": "/Mariann-website/static/media/github.53886c94.jpg",
     "static/media/linkedin.png": "/Mariann-website/static/media/linkedin.0e054d84.png",
     "static/media/resume.png": "/Mariann-website/static/media/resume.14a810f6.png"
   }
