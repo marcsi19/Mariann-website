@@ -13,46 +13,51 @@ const Projects = () => {
           infiniteLoop={true}
           showIndicators={false}
         >
-          <div>
-            <img src={require("./img/projects/Donutjar.png")} alt="DonutJar" />
-            <a
-              href="https://donutjar.herokuapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              DonutJar - Website
-            </a>
+          <div className="donut">
             <p>
+              <img
+                src={require("./img/projects/Donutjar.png")}
+                alt="DonutJar"
+              />
+              <a
+                href="https://donutjar.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                DonutJar
+              </a>
+              <br />
+              {/* </p>
+            <p> */}
               <a
                 href="https://github.com/grace-shopper-gh1809/donutJar"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github - Code
+                Github
                 {/* <img src={require("./img/github.jpg")} alt="github" /> */}
               </a>
             </p>
           </div>
-          <div>
+          <div className="codescape">
             <img
               src={require("./img/projects/Codescape.png")}
               alt="Codescape"
             />
-
-            <a
-              href="https://codescape.herokuapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              CodeScape - Website
-            </a>
             <p>
+              <a
+                href="https://codescape.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                CodeScape -
+              </a>
               <a
                 href="https://github.com/EscapeTheRoom"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github - Code
+                &nbsp;Github
               </a>
             </p>
           </div>
@@ -61,21 +66,21 @@ const Projects = () => {
               src={require("./img/projects/Omnifood.png")}
               alt="MealDelivery"
             />
-
-            <a
-              href="https://marcsi19.github.io/MealDelivery/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              MealDelivery - Website
-            </a>
             <p>
+              <a
+                href="https://marcsi19.github.io/MealDelivery/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                MealDelivery -
+              </a>
+
               <a
                 href="https://github.com/marcsi19/MealDelivery"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github - Code
+                &nbsp;Github
               </a>
             </p>
           </div>
@@ -87,26 +92,26 @@ const Projects = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Mortgage Calculator - Code
+              Mortgage Calculator
             </a>
           </div>
           <div>
             <img src={require("./img/projects/React.png")} alt="MealDelivery" />
-
-            <a
-              href="https://marcsi19.github.io/react-components-mar/#ProgressBar"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              React Component Library - Website
-            </a>
             <p>
+              <a
+                href="https://marcsi19.github.io/react-components-mar/#ProgressBar"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                React Component Library -
+              </a>
+
               <a
                 href="https://github.com/marcsi19/react-components-mar"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github - Code
+                &nbsp;Github
               </a>
             </p>
           </div>
