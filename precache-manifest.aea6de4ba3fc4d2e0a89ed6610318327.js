@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e209a3fa2caf54fa475c51f5090bebc",
+    "revision": "e1e1c1ae46444227267b158b2025b159",
     "url": "/Mariann-website/index.html"
   },
   {
-    "revision": "8055d09f0cd31f9c3282",
+    "revision": "2de3aa0a58bf4e9b22d5",
     "url": "/Mariann-website/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "1aa2700a94fec3fa4a4e",
-    "url": "/Mariann-website/static/css/main.5bf9261b.chunk.css"
+    "revision": "fa42c74dcecc47e45233",
+    "url": "/Mariann-website/static/css/main.af4442c2.chunk.css"
   },
   {
-    "revision": "8055d09f0cd31f9c3282",
-    "url": "/Mariann-website/static/js/2.0ec6d14e.chunk.js"
+    "revision": "2de3aa0a58bf4e9b22d5",
+    "url": "/Mariann-website/static/js/2.b594c386.chunk.js"
   },
   {
-    "revision": "1aa2700a94fec3fa4a4e",
-    "url": "/Mariann-website/static/js/main.374baa9b.chunk.js"
+    "revision": "fa42c74dcecc47e45233",
+    "url": "/Mariann-website/static/js/main.2e538ed4.chunk.js"
   },
   {
     "revision": "1fef13cc5eeaecd3cc55",
