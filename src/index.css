@@ -267,6 +267,9 @@ body {
   .contact img {
     margin: 3.5em 0.5em 0.5em 0.5em;
   }
+  .projects {
+    height: 350vh;
+  }
   .project_details {
     justify-content: center;
   }
