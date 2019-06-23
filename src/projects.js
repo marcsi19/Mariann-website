@@ -5,11 +5,18 @@ const Projects = () => {
     <div className="projects">
       <div className="project__elem">
         <div className="project_container__elem__tag1">
-          <img
-            className="project_container__img"
-            src={require("./img/projects/Donutjar.png")}
-            alt="DonutJar"
-          />
+          <a
+            href="https://donutjar.herokuapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="project_detail project_title"
+          >
+            <img
+              className="project_container__img"
+              src={require("./img/projects/Donutjar.png")}
+              alt="DonutJar"
+            />
+          </a>
         </div>
         <div className="project_container__elem__tag2">
           <p>E-commerce website selling doughnuts.</p>
@@ -41,11 +48,18 @@ const Projects = () => {
 
       <div className="project__elem">
         <div className="project_container__elem__tag1">
-          <img
-            className="project_container__img"
-            src={require("./img/projects/Codescape.png")}
-            alt="Codescape"
-          />
+          <a
+            className="project_detail project_title"
+            href="https://codescape.herokuapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="project_container__img"
+              src={require("./img/projects/Codescape.png")}
+              alt="Codescape"
+            />
+          </a>
         </div>
         <div className="project_container__elem__tag2">
           <p>"Escape the room" style code war game</p>
@@ -76,11 +90,18 @@ const Projects = () => {
 
       <div className="project__elem">
         <div className="project_container__elem__tag1">
-          <img
-            className="project_container__img"
-            src={require("./img/projects/Omnifood.png")}
-            alt="MealDelivery"
-          />
+          <a
+            className="project_detail project_title"
+            href="https://marcsi19.github.io/MealDelivery/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="project_container__img"
+              src={require("./img/projects/Omnifood.png")}
+              alt="MealDelivery"
+            />
+          </a>
         </div>
         <div className="project_container__elem__tag2">
           <p>Template for CSS</p>
@@ -111,20 +132,21 @@ const Projects = () => {
 
       <div className="project__elem">
         <div className="project_container__elem__tag1">
-          <img
-            className="project_container__img"
-            src={require("./img/projects/Swift.png")}
-            alt="LoanCalc"
-          />
+          <a
+            className="project_detail project_title"
+            href="https://github.com/marcsi19/LoanCalcSwift"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="project_container__img"
+              src={require("./img/projects/Swift.png")}
+              alt="LoanCalc"
+            />
+          </a>
         </div>
         <div className="project_container__elem__tag2">
           <p>Mortgage/Loan Calculator written in Swift. </p>
-          <p>
-            Add the amount, terms in months and yearly interest rate so the
-            calculator can calculate your monthly payment. It also displays how
-            much is the principal and the interest part of the payment in each
-            month along with remaining balance.
-          </p>
           <div className="project_details">
             <a
               className="project_detail project_title"
@@ -152,18 +174,21 @@ const Projects = () => {
 
       <div className="project__elem">
         <div className="project_container__elem__tag1">
-          <img
-            className="project_container__img"
-            src={require("./img/projects/React.png")}
-            alt="React_Component"
-          />
+          <a
+            className="project_detail project_title"
+            href="https://marcsi19.github.io/react-components-mar/#ProgressBar"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="project_container__img"
+              src={require("./img/projects/React.png")}
+              alt="React_Component"
+            />
+          </a>
         </div>
         <div className="project_container__elem__tag2">
-          <p>
-            UI library similar to Material UI. Followed ATOMIC design, creating
-            smaller atoms to create molecules to create components that are
-            small and reusable. Automated documentation using react-docgen.
-          </p>
+          <p>UI library similar to Material UI.</p>
           <div className="project_details">
             <a
               className="project_detail project_title"
