@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mariann-website/precache-manifest.71dc2754c1ee4e63f11195869955a91c.js"
+  "/Mariann-website/precache-manifest.63dd55da31a9133c58eacbb73e38311f.js"
 );
 
 self.addEventListener('message', (event) => {
