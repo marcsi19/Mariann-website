@@ -41,6 +41,7 @@ body {
   margin-top: 10px;
   height: 4em;
   font-weight: bold;
+  z-index: 2;
 }
 
 .main-nav a:link,
@@ -235,15 +236,17 @@ body {
 
 .project_container__icon {
   display: block;
-  width: 2em;
+  width: 2.5em;
   height: auto;
+  filter: brightness(60%);
   -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .project_container__icon:active,
 .project_container__icon:hover {
-  width: 2.3em;
+  width: 3em;
   height: auto;
+  filter: brightness(80%);
 }
 
 /* ------------------------- */

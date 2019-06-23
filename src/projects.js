@@ -38,7 +38,7 @@ const Projects = () => {
             >
               <img
                 className="project_container__icon project_detail"
-                src={require("./img/github.jpg")}
+                src={require("./img/github2.jpg")}
                 alt="github"
               />
             </a>
@@ -80,7 +80,7 @@ const Projects = () => {
             >
               <img
                 className="project_container__icon project_detail"
-                src={require("./img/github.jpg")}
+                src={require("./img/github2.jpg")}
                 alt="github"
               />
             </a>
@@ -122,7 +122,7 @@ const Projects = () => {
             >
               <img
                 className="project_container__icon project_detail"
-                src={require("./img/github.jpg")}
+                src={require("./img/github2.jpg")}
                 alt="github"
               />
             </a>
@@ -164,7 +164,7 @@ const Projects = () => {
             >
               <img
                 className="project_container__icon project_detail"
-                src={require("./img/github.jpg")}
+                src={require("./img/github2.jpg")}
                 alt="github"
               />
             </a>
@@ -206,7 +206,7 @@ const Projects = () => {
             >
               <img
                 className="project_container__icon project_detail"
-                src={require("./img/github.jpg")}
+                src={require("./img/github2.jpg")}
                 alt="github"
               />
             </a>
