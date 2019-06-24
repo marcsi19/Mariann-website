@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mariann-website/static/css/main.0114918c.chunk.css",
-    "main.js": "/Mariann-website/static/js/main.49bbbca5.chunk.js",
-    "main.js.map": "/Mariann-website/static/js/main.49bbbca5.chunk.js.map",
+    "main.css": "/Mariann-website/static/css/main.3fe939d6.chunk.css",
+    "main.js": "/Mariann-website/static/js/main.f117fb0c.chunk.js",
+    "main.js.map": "/Mariann-website/static/js/main.f117fb0c.chunk.js.map",
     "runtime~main.js": "/Mariann-website/static/js/runtime~main.b24bb8b1.js",
     "runtime~main.js.map": "/Mariann-website/static/js/runtime~main.b24bb8b1.js.map",
     "static/js/2.f73342eb.chunk.js": "/Mariann-website/static/js/2.f73342eb.chunk.js",
     "static/js/2.f73342eb.chunk.js.map": "/Mariann-website/static/js/2.f73342eb.chunk.js.map",
     "index.html": "/Mariann-website/index.html",
-    "precache-manifest.aac704db69b2263dd563684c96893f06.js": "/Mariann-website/precache-manifest.aac704db69b2263dd563684c96893f06.js",
+    "precache-manifest.7d64ae5ebfe3f84cf6c1e6bbce1a428c.js": "/Mariann-website/precache-manifest.7d64ae5ebfe3f84cf6c1e6bbce1a428c.js",
     "service-worker.js": "/Mariann-website/service-worker.js",
-    "static/css/main.0114918c.chunk.css.map": "/Mariann-website/static/css/main.0114918c.chunk.css.map",
+    "static/css/main.3fe939d6.chunk.css.map": "/Mariann-website/static/css/main.3fe939d6.chunk.css.map",
     "static/media/Codescape.png": "/Mariann-website/static/media/Codescape.03a48bee.png",
     "static/media/Donutjar.png": "/Mariann-website/static/media/Donutjar.c36b28b6.png",
     "static/media/Omnifood.png": "/Mariann-website/static/media/Omnifood.8e0dd10f.png",
@@ -19,6 +19,7 @@
     "static/media/index.css": "/Mariann-website/static/media/project.3502f1fa.jpg",
     "static/media/github.jpg": "/Mariann-website/static/media/github.53886c94.jpg",
     "static/media/linkedin.png": "/Mariann-website/static/media/linkedin.0e054d84.png",
+    "static/media/profile.jpg": "/Mariann-website/static/media/profile.6fdbe5fb.jpg",
     "static/media/resume.png": "/Mariann-website/static/media/resume.14a810f6.png"
   }
 }
