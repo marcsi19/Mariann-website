@@ -308,6 +308,10 @@ body {
     padding-top: 1.5em;
   }
 
+  .projects {
+    height: 350vh;
+  }
+
   .intro__content {
     padding-top: 0.6em;
     padding: 0;
