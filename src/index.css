@@ -162,6 +162,10 @@ body {
   margin-right: 2em;
 }
 
+.project__title {
+  text-align: center;
+}
+
 .project__elem > div {
   display: block;
   margin-left: 2em;

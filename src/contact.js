@@ -20,7 +20,7 @@ const Contact = () => {
         </a>
         {/* <a href="https://bit.ly/2ZsoiWH" target="blank"> */}
         <a
-          href="https://drive.google.com/file/d/1Mkl047pbi5yfQsPOZ8INJADtFSch9wSs/view?usp=sharing"
+          href="https://drive.google.com/file/d/1tP7QDHOBcXUtmEc_pYyW3pS0f52XiL0h/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >

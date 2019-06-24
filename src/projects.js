@@ -3,6 +3,11 @@ import React from "react";
 const Projects = () => {
   return (
     <div className="projects">
+      <div className="project__elem project__title">
+        Technologies used: Node.js, Express.js, Javascript, React-Redux, Google
+        OAuth, PostgreSQL, HTML, CSS, Docker, SWIFT. Deployed on Heroku or
+        Github.
+      </div>
       <div className="project__elem">
         <div className="project_container__elem__tag1">
           <a
