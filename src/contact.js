@@ -9,7 +9,7 @@ const Contact = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={require("./img/github.jpg")} alt="github" />
+          <img src={require("./img/github.png")} alt="github" />
         </a>
         <a
           href="https://www.linkedin.com/in/mariannmateka/"

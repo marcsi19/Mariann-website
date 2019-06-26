@@ -24,7 +24,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="project_container__elem__tag2">
-          <p>E-commerce website selling doughnuts.</p>
+          <p>E-commerce website</p>
           <div className="project_details">
             <a
               href="https://donutjar.herokuapp.com/"

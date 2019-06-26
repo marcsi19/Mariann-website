@@ -58,7 +58,7 @@ body {
 
 .main-nav a:hover,
 .main-nav a:active {
-  border-bottom: 2px solid #553a08e7;
+  border-bottom: 2px solid #f39c12;
 }
 
 .navlink {
@@ -123,7 +123,7 @@ body {
 .intro__link:active,
 .intro__link:hover {
   /* font-size: 115%; */
-  border-bottom: 2px solid #553a08e7;
+  border-bottom: 2px solid #f39c12;
 }
 
 /* ------------------------- */
@@ -187,7 +187,7 @@ body {
 
 .project_container__img {
   display: block;
-  height: 7em;
+  height: 100px;
   width: auto;
   border-radius: 6px;
   box-shadow: 0 30px 80px 10px rgba(0, 0, 0, 0.2);
@@ -315,6 +315,12 @@ body {
   .intro__content {
     padding-top: 0.6em;
     padding: 0;
+  }
+}
+
+@media only screen and (max-height: 500px) {
+  .projects {
+    height: 430vh;
   }
 }
 
