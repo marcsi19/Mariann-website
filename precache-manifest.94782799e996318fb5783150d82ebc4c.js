@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "163f8fb9bca9ee31b85ce577a3df55bc",
+    "revision": "b568d813e57342c20012cf7fa0c61a33",
     "url": "/Mariann-website/index.html"
   },
   {
-    "revision": "acf7b06a648a0df6bbf3",
-    "url": "/Mariann-website/static/css/main.f58df1cb.chunk.css"
+    "revision": "998d289adc7de8c10999",
+    "url": "/Mariann-website/static/css/main.ae7cd72a.chunk.css"
   },
   {
-    "revision": "c195c39b41c71c4387a0",
-    "url": "/Mariann-website/static/js/2.f0779831.chunk.js"
+    "revision": "6a3404bf952ca572d70b",
+    "url": "/Mariann-website/static/js/2.f73342eb.chunk.js"
   },
   {
-    "revision": "acf7b06a648a0df6bbf3",
-    "url": "/Mariann-website/static/js/main.764834b0.chunk.js"
+    "revision": "998d289adc7de8c10999",
+    "url": "/Mariann-website/static/js/main.396b2f04.chunk.js"
   },
   {
     "revision": "1fef13cc5eeaecd3cc55",
@@ -40,16 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mariann-website/static/media/Swift.9330e48c.png"
   },
   {
-    "revision": "dc9ee5268356c36aa128a3ded03bc82c",
-    "url": "/Mariann-website/static/media/contact.dc9ee526.jpg"
-  },
-  {
     "revision": "9b043902d1168afea78c0bc4133dc487",
     "url": "/Mariann-website/static/media/github.9b043902.png"
   },
   {
-    "revision": "f808c3c515f81c190070a851279e6957",
-    "url": "/Mariann-website/static/media/hero.f808c3c5.jpg"
+    "revision": "d9a707e0c07525a5626492f21813cbe5",
+    "url": "/Mariann-website/static/media/hero.d9a707e0.jpg"
   },
   {
     "revision": "c1e965af30e38027b47aa14be4367f8c",
@@ -58,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "65faa39daa21cb38f7d50c86e2d2e76a",
     "url": "/Mariann-website/static/media/profile.65faa39d.jpg"
-  },
-  {
-    "revision": "8d0d45a08d9d069fbe56f99bd140e047",
-    "url": "/Mariann-website/static/media/project.8d0d45a0.jpg"
   },
   {
     "revision": "014a4c2abd4b2ea34272512f34dd9219",
