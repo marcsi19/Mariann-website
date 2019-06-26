@@ -3,6 +3,9 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="contact-main">
+      <div className="contact__img">
+        <img src={require("./img/profile.jpg")} alt="profile" />
+      </div>
       <div className="contact">
         <a
           href="http://github.com/marcsi19"
