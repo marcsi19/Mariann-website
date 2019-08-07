@@ -395,6 +395,9 @@ div.project_container__elem__tag1 {
 
 /* from 0 to 500px */
 @media only screen and (max-width: 500px) {
+  .main-nav {
+    font-size: 0.7em;
+  }
   .contact img {
     margin: 3.5em 0.5em 0.5em 0.5em;
   }
