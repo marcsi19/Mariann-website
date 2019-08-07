@@ -419,6 +419,13 @@ div.project_container__elem__tag1 {
     flex-flow: row wrap;
     justify-content: center;
   }
+
+  .project__elem p {
+    font-weight: bold;
+  }
+  .project__elem1 p {
+    font-weight: bold;
+  }
   .project__elem1 {
     justify-content: center;
     flex-flow: row wrap;
@@ -436,6 +443,11 @@ div.project_container__elem__tag1 {
   }
   div.project_container__elem__tag2 {
     margin-top: 0.4em;
+    text-align: center;
+  }
+  .tech p {
+    margin-left: 4em;
+    margin-right: 4em;
     text-align: center;
   }
 }
