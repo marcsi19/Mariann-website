@@ -407,6 +407,13 @@ div.project_container__elem__tag1 {
   .skills {
     font-size: 0.72em;
   }
+  .skills h3 {
+    margin-right: 0.5em;
+  }
+
+  .skill-label {
+    margin-right: 0.5em;
+  }
 
   .project__elem {
     flex-flow: row wrap;
