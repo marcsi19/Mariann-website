@@ -66,7 +66,6 @@ const Projects = () => {
               >
                 DonutJar
               </a>
-
               <a
                 href="https://github.com/grace-shopper-gh1809/donutJar"
                 target="_blank"
