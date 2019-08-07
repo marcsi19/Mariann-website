@@ -408,11 +408,11 @@ div.project_container__elem__tag1 {
     font-size: 0.72em;
   }
   .skills h3 {
-    margin-right: 0.5em;
+    margin-right: 0.65em;
   }
 
   .skill-label {
-    margin-right: 0.5em;
+    margin-right: 0.8em;
   }
 
   .project__elem {
@@ -444,10 +444,12 @@ div.project_container__elem__tag1 {
   div.project_container__elem__tag2 {
     margin-top: 0.4em;
     text-align: center;
-  }
-  .tech p {
     margin-left: 4em;
     margin-right: 4em;
+  }
+  .tech p {
+    /* margin-left: 4em;
+    margin-right: 4em; */
     text-align: center;
   }
 }
