@@ -5,10 +5,13 @@ import createBrowserHistory from "./history";
 import App from "./App";
 import { HashRouter } from "react-router-dom";
 import * as serviceWorker from "./serviceWorker";
+import ScrollToTop from "./scrolltotop";
 
 ReactDOM.render(
   <HashRouter history={createBrowserHistory}>
-    <App />
+    <ScrollToTop>
+      <App />
+    </ScrollToTop>
   </HashRouter>,
   document.getElementById("root")
 );
