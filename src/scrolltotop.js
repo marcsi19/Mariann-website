@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { connect } from "react-redux";
-import { withRouter, Route, Switch } from "react-router-dom";
-import PropTypes from "prop-types";
-
 class ScrollToTop extends Component {
   componentDidUpdate(prevProps) {
     if (this.props.location.pathname !== prevProps.location.pathname) {
@@ -15,4 +11,4 @@ class ScrollToTop extends Component {
   }
 }
 
-export default withRouter(ScrollToTop);
+export default ScrollToTop;
