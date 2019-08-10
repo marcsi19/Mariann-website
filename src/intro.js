@@ -7,7 +7,7 @@ const Intro = () => (
       <div className="intro__content">
         <img src={require("./img/profile.jpg")} alt="profile" />
         <div>
-          Hi! I'm Mariann. <br />I am a software developer.
+          Hi! My name is Mariann. <br />I am a software developer.
           <br />
           <Link to="/projects" className="intro__link">
             Have a look at my work!

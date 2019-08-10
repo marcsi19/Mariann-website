@@ -20,7 +20,8 @@ html,
 body {
   background-color: #fff;
   color: #555;
-  font-family: "Arial", sans-serif;
+  /* font-family: "Arial", sans-serif; */
+  font-family: "Red Hat Display", sans-serif;
   font-weight: 300;
   font-size: 20px;
   text-rendering: optimizeLegibility;
@@ -51,6 +52,7 @@ body {
   height: 4em;
   font-weight: bold;
   z-index: 2;
+  font-family: "Red Hat Display", sans-serif;
 }
 
 .main-nav a:link,
@@ -72,8 +74,9 @@ body {
 }
 
 .navlink {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
+  font-family: "Red Hat Display", sans-serif;
   size: 36px;
   margin: 0 3em 0 3em;
   text-decoration: none;
@@ -86,20 +89,25 @@ body {
 /* ------------------------- */
 .main-page {
   background-image: -webkit-linear-gradient(
-      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.137),
       rgba(0, 0, 0, 0.95)
     ),
     url(./img/hero.jpg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.95)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.95)),
     url(./img/hero.jpg);
   background-size: cover;
-  color: #fff;
+  color: white;
+  letter-spacing: 2px;
+  /* color: rgba(240, 237, 236, 0.911); */
+  text-shadow: 0px 5px 4px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
   background-attachment: fixed;
   width: 100vw;
   height: 100vh;
   padding: 4em;
   display: flex;
   justify-content: center;
+  font-family: "Red Hat Display", sans-serif;
 }
 
 .intro {
@@ -111,13 +119,13 @@ body {
   flex: 1;
   align-content: flex-start;
   align-self: center;
-  font-size: 150%;
+  font-size: 110%;
   text-align: center;
   /* font-weight: bold; */
 }
 
 .intro__content img {
-  height: 8em;
+  height: 10em;
   border-radius: 25%;
   filter: brightness(80%);
   box-shadow: 0 30px 80px 10px rgba(0, 0, 0, 0.2);
@@ -126,6 +134,7 @@ body {
 .intro__link:link,
 .intro__link:visited {
   color: white;
+  /* color: rgba(240, 236, 236, 0.911); */
   text-decoration: none;
   border-bottom: 2px solid transparent;
   -webkit-transition: border-bottom 0.2s;
@@ -315,6 +324,7 @@ div.project_container__elem__tag1 {
     url(./img/hero.jpg);
   background-size: cover;
   color: #fff;
+  font-family: "Roboto", sans-serif;
   background-attachment: fixed;
   width: 100vw;
   height: 100vh;
