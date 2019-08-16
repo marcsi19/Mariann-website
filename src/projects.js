@@ -82,7 +82,7 @@ const Projects = () => {
 
           <div className="tech">
             <p>
-              JavaScript | Node | Express | PostgreSQ | Sequelize | React |
+              JavaScript | Node | Express | PostgreSQL | Sequelize | React |
               Redux | Oauth
             </p>
           </div>
@@ -130,7 +130,7 @@ const Projects = () => {
           </div>
           <div className="tech">
             <p>
-              JavaScript | Node | Express | PostgreSQ | Sequelize | React |
+              JavaScript | Node | Express | PostgreSQL | Sequelize | React |
               Redux | Docker
             </p>
           </div>
