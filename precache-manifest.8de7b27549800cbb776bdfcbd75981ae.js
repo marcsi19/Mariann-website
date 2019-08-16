@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98508c12add998187a5c689f3b3dd3ae",
+    "revision": "b7cbaf86128804d45b0d5f0395cb9eb2",
     "url": "/Mariann-website/index.html"
   },
   {
-    "revision": "58ea25b3ee1b0bb9e036",
-    "url": "/Mariann-website/static/css/main.26bffb76.chunk.css"
+    "revision": "2765e2654273fe4f4ee5",
+    "url": "/Mariann-website/static/css/main.07933116.chunk.css"
   },
   {
     "revision": "f03b8cb5f6c7ee72e77b",
     "url": "/Mariann-website/static/js/2.d475b9d4.chunk.js"
   },
   {
-    "revision": "58ea25b3ee1b0bb9e036",
-    "url": "/Mariann-website/static/js/main.1b12565c.chunk.js"
+    "revision": "2765e2654273fe4f4ee5",
+    "url": "/Mariann-website/static/js/main.781dd062.chunk.js"
   },
   {
     "revision": "1fef13cc5eeaecd3cc55",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mariann-website/static/media/github.9b043902.png"
   },
   {
-    "revision": "f131fc1bbd371d86bce19b106fd410b2",
-    "url": "/Mariann-website/static/media/hero.f131fc1b.jpg"
+    "revision": "40fcb43072fec29855a3a4671f76d054",
+    "url": "/Mariann-website/static/media/hero.40fcb430.jpg"
   },
   {
     "revision": "c1e965af30e38027b47aa14be4367f8c",
